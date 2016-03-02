@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:context="kr.KENNYSOFT.Student.Plugin.SearchStudent.MainActivity" >
+
+	<item
+		android:id="@+id/action_favorite"
+		android:orderInCategory="100"
+		android:icon="@drawable/ic_star_white_48dp"
+		android:title="@string/action_favorite"
+		app:showAsAction="always"/>
+	<item
+		android:id="@+id/action_exit"
+		android:orderInCategory="101"
+		android:icon="@drawable/ic_close_white_48dp"
+		android:title="@string/action_exit"
+		app:showAsAction="always"/>
+
+</menu>

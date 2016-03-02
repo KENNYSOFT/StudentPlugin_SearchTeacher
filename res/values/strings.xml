@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">송죽 학사 플러그인 - 교사검색</string>
+	<string name="action_favorite">즐겨찾기</string>
+	<string name="action_exit">닫기</string>
+	
+	<string name="ok">확인</string>
+	
+	<string name="favorite_delete">삭제</string>
+	
+	<string name="message_add">이(가) 추가되었습니다.</string>
+	<string name="message_favorite">즐겨찾기에 추가</string>
+
+</resources>
